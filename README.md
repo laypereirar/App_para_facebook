@@ -10,5 +10,6 @@
     Matrícula: 20141011110034
     Github Nickname: santosvanessa
 ## APLICATIVO
-    Nome:
-    Sobre:
+    Nome: STUD
+    Sobre: Aplicativo de estudo que terá como foco o auxílio a estudantes, disponibilizando materiais e horários de estudo.
+    Framework: WEB

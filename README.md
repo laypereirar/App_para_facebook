@@ -10,5 +10,5 @@
     Matrícula: 20141011110034
     Github Nickname: santosvanessa
 ## APLICATIVO
-    <b>Nome:</b>
-    <b>Sobre:</b>
+    Nome:
+    Sobre:

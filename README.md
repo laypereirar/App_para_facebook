@@ -1,5 +1,12 @@
 # App_para_facebook
-- Componentes:
-   -Laís Pereira
-   -Sarah Soares
-   -Vanessa Santos
+## COMPONENTES
+### Laís Pereira do Nascimento
+    Matrícula: 20141011110107  
+    Github Nickname: laypereirar
+### Sarah Rebecca Soares Penha
+    Matrícula: 20141011110182 
+    Github Nickname: soaressarah  
+### Vanessa Cristiane Santos
+    Matrícula: 20141011110034
+    Github Nickname: santosvanessa
+
